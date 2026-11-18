@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+# test media stays out of the repo
+*.MP4
+*.mp4
+*.SRT
+*.JPG
+*.jpg
+*.LRF
+*.LRV
